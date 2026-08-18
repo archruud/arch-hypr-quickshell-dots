@@ -29,15 +29,13 @@ ttf-fira-code              # Fira Code
 ttf-font-awesome           # Font Awesome icons
 noto-fonts                 # Noto fonts
 noto-fonts-emoji           # Emoji support
-noto-fonts-cjk             # Asian language support
 
 # === FILE MANAGERS ===
-dolphin                # KDE file manager
-dolphin-plugins        # Dolphin plugins
-kdegraphics-thumbnailers  # Image thumbnails
-ffmpegthumbs          # Video thumbnails
-gvfs                   # Virtual filesystem
-gvfs-mtp               # MTP support (phones)
+dolphin                      # KDE file manager
+dolphin-plugins              # Dolphin plugins
+kdegraphics-thumbnailers     # Image thumbnails
+ffmpegthumbs                 # Video thumbnails
+gvfs                         # Virtual filesystem
 
 # === MEDIA ===
 mpv                    # Video player
