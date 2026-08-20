@@ -36,6 +36,7 @@ dolphin-plugins              # Dolphin plugins
 kdegraphics-thumbnailers     # Image thumbnails
 ffmpegthumbs                 # Video thumbnails
 gvfs                         # Virtual filesystem
+superfile                    # Terminal file manager
 
 # === MEDIA ===
 mpv                    # Video player
