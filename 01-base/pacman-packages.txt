@@ -13,6 +13,7 @@ gnome-keyring          # Keyring for passord
 xdg-desktop-portal-hyprland  # Desktop portal for Hyprland
 xdg-user-dirs          # User directories
 udisks2                # Disk management
+usbutils               # usb tilegg til terminal commands
 
 # === TERMINAL & TOOLS ===
 kitty                  # Terminal emulator
