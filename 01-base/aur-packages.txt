@@ -22,6 +22,7 @@ zed
 webapp-manager          # Run websites as if they were apps
 
 # === SYSTEM ===
+speech-dispatcher       # 
 
 # === OPTIONAL ===
 libreoffice-fresh-nb    # Office Norsk
